@@ -35,6 +35,10 @@
       <groupId>com.antgroup.openspg.server</groupId>
       <artifactId>infra-dao</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.antgroup.openspg.cloudext</groupId>
+      <artifactId>cloudext-impl-computing-engine-local</artifactId>
+    </dependency>
 
     <!-- sofa -->
     <dependency>
