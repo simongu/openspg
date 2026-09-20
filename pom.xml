@@ -147,6 +147,11 @@
       </dependency>
       <dependency>
         <groupId>com.antgroup.openspg.cloudext</groupId>
+        <artifactId>cloudext-impl-computing-engine-local</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.antgroup.openspg.cloudext</groupId>
         <artifactId>cloudext-impl-graph-store-tugraph</artifactId>
         <version>${project.version}</version>
       </dependency>

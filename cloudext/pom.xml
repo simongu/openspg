@@ -47,6 +47,7 @@
     <module>impl/cache/redis</module>
     <module>impl/object-storage/minio</module>
     <module>impl/object-storage/oss</module>
+    <module>impl/computing-engine/local</module>
   </modules>
 
   <properties/>
